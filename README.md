@@ -21,6 +21,7 @@ Moje doświadczenie łączy solidne podstawy inżynierskie z unikalnym wglądem 
    3. Connectedness (Współzależność)
    4. Strategic (Strateg)
    5. Individualization (Indywidualizacja)
+      
       Jestem osobą, która szybko się uczy (Learner), widzi złożone powiązania (Connectedness), tworzy skuteczne plany (Strategic), a wszystko to robi w kontekście głębokich, zaufanych relacji (Relator, Individualization).
       Jest to profil idealny dla analityki, DevSecOps/Security Automation, Analityk SOC/Threat Analyst i ról wymagających ciągłej adaptacji i strategicznego myślenia.
 
