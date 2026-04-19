@@ -33,6 +33,12 @@ A modern Single Page Application (SPA) featuring high-end frontend technologies.
 - **Achievement:** Created an interactive 3D background in **Three.js** with dynamic performance optimization (60 FPS).
 - **Tech:** JavaScript, WebGL, Three.js, GSAP, Telegram API integration.
 
+### 🌐 [namako.eu](http://namako.eu) – Personal Brand & Portfolio Hub
+A high-performance personal platform focused on **User Experience (UX)** and brand identity.
+- **Achievement:** Designed a clean, minimalist interface using modern CSS techniques and smooth animations (relax.js, Swiper) to ensure an intuitive user journey.
+- **Tech:** HTML5, CSS3 (Custom Grid/Flexbox), JavaScript, jQuery, Responsive Web Design.
+- **Focus:** Bridging the gap between psychology-driven design and technical implementation.
+
 ### 🐍 [Python Automation](https://github.com/namako-pl)
 - **PDF to MP3 Converter:** GUI-based tool featuring multi-threading for responsive data processing.
 - **PokeAPI Integration:** Demonstrating efficient JSON data parsing and external API handling.
@@ -40,13 +46,13 @@ A modern Single Page Application (SPA) featuring high-end frontend technologies.
 ---
 
 ## 🧠 CliftonStrengths (Top 5)
-**Learner | Relator | Connectedness | Strategic | Individualization** I am a fast learner (ready to master **Kotlin/Mobile**), a strategic thinker who sees complex patterns, and a dedicated team member focused on building trust-based professional relationships.
+**Learner | Relator | Connectedness | Strategic | Individualization** I am a fast learner, a strategic thinker who sees complex patterns, and a dedicated team member focused on building trust-based professional relationships.
 
 ---
 
 ## 🎓 Education & Certifications
-- **B.Eng. in Cybersecurity Engineering** (In Progress)
-- **B.A. in Psychology** (In Progress) – Specializing in Statistical Analysis and Human Factors.
+- **B.Eng. in Cybersecurity Engineering** (2nd Semester / In Progress)
+- **B.A. in Psychology** (4th Semester / In Progress) – Specializing in Statistical Analysis and Human Factors.
 - **AI Foundations Certified (Women Go Tech)** – Validated skills in LLM tools and Generative AI workflows.
 
 ---
