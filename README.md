@@ -1,5 +1,7 @@
 Hi there! I'm Natalia 👋
+
 Digital Solutions Architect | AI-Assisted Developer | Cybersecurity Engineer (in progress)
+
 Łączę inżynierię cyberbezpieczeństwa z psychologią, aby projektować systemy, które są nie tylko bezpieczne, ale przede wszystkim intuicyjne i zautomatyzowane. Moja zasada: Najprostsze rozwiązania są najskuteczniejsze.
 
 🚀 MOJE PODEJŚCIE (AI-Assisted Workflow)
