@@ -1,73 +1,59 @@
-Hi there 👋
+Hi there! I'm Natalia 👋
+Digital Solutions Architect | AI-Assisted Developer | Cybersecurity Engineer (in progress)
+Łączę inżynierię cyberbezpieczeństwa z psychologią, aby projektować systemy, które są nie tylko bezpieczne, ale przede wszystkim intuicyjne i zautomatyzowane. Moja zasada: Najprostsze rozwiązania są najskuteczniejsze.
 
-👩‍💻 Natalia Kowalska | Python & Cybersecurity Portfolio
+🚀 MOJE PODEJŚCIE (AI-Assisted Workflow)
+Traktuję Generative AI jako strategicznego partnera. Moją siłą nie jest bezrefleksyjne kopiowanie kodu, lecz:
 
-Witaj w moim technologicznym portfolio. 
-Jestem studentką Inżynierii Cyberbezpieczeństwa, pasjonatką programowania w Pythonie oraz wykorzystania narzędzi AI w procesie developmentu i analizy. 
-Moje doświadczenie łączy solidne podstawy inżynierskie z unikalnym wglądem w analitykę i psychologię (równoległe studia psychologiczne).
+Precyzyjna diagnostyka: Umiejętność debugowania i iteracji z AI, by dowieźć czysty, działający kod.
 
----
+Architektura procesów: Dzielenie złożonych problemów na mniejsze, logiczne moduły.
 
-🚀 KLUCZOWE OBSZARY KOMPETENCJI
+Security-by-Design: Wdrażanie integralności danych i bezpiecznych połączeń API (np. Google API).
 
-* **Programowanie:** Python (Intermediate, OOP, APIs, Multi-threading), C++ (OOP Fundamentals).
-* **Cyberbezpieczeństwo:** Kryptografia, Bezpieczne Programowanie, Analiza Ryzyka, Testy Penetracyjne (w trakcie studiów).
-* **Data & AI:** Generative AI (debugging, optymalizacja workflow), JSON/PDF Data Processing.
-* **Soft/Analytical Skills: Strategiczne myślenie, Analiza statystyczna, Komunikacja.
+🔧 KLUCZOWE PROJEKTY (Highlight)
+🏎 HOG Kraków – Lead Systems Architect
+Samodzielnie zaprojektowana architektura łącząca frontend z ekosystemem Google API.
 
-🧠 CLIFTON STRENGHTS:
-   1. Learner (Uczenie się)
-   2. Relator (Bliskość)
-   3. Connectedness (Współzależność)
-   4. Strategic (Strateg)
-   5. Individualization (Indywidualizacja)
-      
-      Jestem osobą, która szybko się uczy (Learner), widzi złożone powiązania (Connectedness), tworzy skuteczne plany (Strategic), a wszystko to robi w kontekście głębokich, zaufanych relacji (Relator, Individualization).
-      Jest to profil idealny dla analityki, DevSecOps/Security Automation, Analityk SOC/Threat Analyst i ról wymagających ciągłej adaptacji i strategicznego myślenia.
+Osiągnięcie: 100% automatyzacji zarządzania wydarzeniami i mediami, eliminacja kosztów zewnętrznych CMS.
 
----
+Tech: PHP, Google Calendar & Drive API, Server Configuration, Security hardening.
 
-🔧 WYBRANE PROJEKTY (Hand-on Experience)
+🌌 Kroniki Marty – Immersive SPA
+Nowoczesna platforma typu Single Page Application z zaawansowanym UI.
 
-  1. Gra Python Pokemon (API & JSON Data Processing)
-* **Repozytorium:** [https://github.com/namako-pl/pokemon_game/blob/main/the_game.py]
-* **Technologie:** `Python`, `requests`, `JSON`, `random`, **PokeAPI**.
-* **Opis:** Prosta gra tekstowa demonstrująca kluczowe umiejętności w pracy z danymi zewnętrznymi.
-* **Kluczowe umiejętności techniczne:**
-    * Efektywne **pobieranie danych** za pomocą zewnętrznego API (PokeAPI).
-    * **Przetwarzanie i parsowanie danych** w formacie JSON (kluczowa umiejętność w analizie logów bezpieczeństwa).
-    * Skuteczne wykorzystanie **narzędzi AI do debugowania** i optymalizacji kodu.
+Osiągnięcie: Interaktywne tło 3D w Three.js z dynamiczną optymalizacją wydajności (60 FPS).
 
-  2. Aplikacja Python PDF do MP3 (GUI & Multi-threading)
-* **Repozytorium:** [https://github.com/namako-pl/pdf_to_mp3_Python/blob/main/pdf_to_mp3.py]
-* **Technologie:** `Python`, `Tkinter` (GUI), `PyPDF2`, `pyttsx3` (TTS), `threading`.
-* **Opis:** Aplikacja z graficznym interfejsem użytkownika, która ekstrahuje tekst z plików PDF i konwertuje go na mowę, zapisując wynik do pliku MP3.
-* **Kluczowe umiejętności techniczne:**
-    * **Tworzenie aplikacji z interfejsem GUI** (front-end development w Pythonie).
-    * Implementacja **wielowątkowości (`threading`)** w celu zapewnienia responsywności UI podczas długotrwałych operacji.
-    * **Obsługa błędów** (try/except) i przetwarzanie danych na plikach.
+Tech: JavaScript (ES6+), WebGL, Three.js, GSAP, Telegram API.
 
-  3. Personal Website (UX/UI & Front-end)
-* **Strona online:** [http://namako.eu]
-* **Technologie:** `HTML5`, `CSS3`, `JavaScript`, `jQuery`, `Swiper`, `relax.js`.
-* **Opis:** Samodzielnie zaprojektowana i zaimplementowana responsywna strona internetowa, skupiająca się na estetyce i użyteczności (UX/UI).
-* **Kluczowe umiejętności:** Projektowanie zorientowane na użytkownika (ważne w kontekście bezpieczeństwa) oraz wykorzystanie **narzędzi Generatywnej AI** w procesie tworzenia strony.
+🐍 Automatyzacja & Python
+PDF to MP3 (GUI & Multi-threading): Narzędzie do konwersji danych z interfejsem graficznym.
 
----
+PokeAPI Game: Demonstracja pracy z danymi JSON i zewnętrznymi API.
 
-🎓 WYKSZTAŁCENIE I CERTYFIKATY
+Tech: Python, Tkinter, threading, requests.
 
-Moje formalne wykształcenie łączy wiedzę techniczną z kompetencjami analitycznymi:
+🛠 TECH STACK
+Languages: JavaScript, PHP, Python, podstawy C++.
 
-* **Inżynieria Cyberbezpieczeństwa (W trakcie studiów):** Fundamenty Kryptografii, Bezpiecznego Programowania, Testów Penetracyjnych i Zarządzania Ryzykiem.
-* **Psychologia (W trakcie studiów):** Rozwinięte umiejętności w **Analizie Statystycznej**, Metodologii Badań i Komunikacji Interpersonalnej.
-* **Certyfikaty AI:** Ukończony program **AI Foundations (Women Go Tech)** – potwierdzona znajomość LLM Tools, Machine Learning i Generatywnej AI.
+Web & UI: Three.js, GSAP, CSS Grid/Flexbox, HTML5, Figma.
 
----
+Tools & Infrastructure: Git/GitHub, Linux Terminal, SQL (podstawy), Postman, AI Studio.
+
+Cybersecurity: Kryptografia, Analiza ryzyka, Bezpieczne programowanie.
+
+🧠 CLIFTON STRENGTHS (Top 5)
+Learner | Relator | Connectedness | Strategic | Individualization
+Szybko się uczę (idealne przy wdrażaniu nowych technologii jak Kotlin), widzę powiązania tam, gdzie inni widzą chaos, i buduję trwałe relacje oparte na zaufaniu.
+
+🎓 WYKSZTAŁCENIE
+Inżynieria Cyberbezpieczeństwa (w trakcie) – fundamenty techniczne.
+
+Psychologia (w trakcie) – analiza statystyczna i zrozumienie użytkownika (Human Factors).
+
+AI Foundations (Women Go Tech) – certyfikowana znajomość narzędzi LLM i ML.
 
 📞 KONTAKT
+Email: natalia.ma.kowalska@gmail.com
 
-Zapraszam do kontaktu w sprawie potencjalnej współpracy, praktyk lub wymiany doświadczeń:
-
-* **Email:** natalia.ma.kowalska@gmail.com
-* **LinkedIn:** (https://www.linkedin.com/in/namako/)
+LinkedIn: linkedin.com/in/namako/
