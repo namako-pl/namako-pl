@@ -1,61 +1,56 @@
-Hi there! I'm Natalia 👋
+# Hi there! I'm Natalia 👋
+### Digital Solutions Architect | AI-Assisted Developer | Cybersecurity Engineering Student
 
-Digital Solutions Architect | AI-Assisted Developer | Cybersecurity Engineer (in progress)
+I bridge the gap between **Cybersecurity Engineering** and **Clinical Psychology** to design high-performance, human-centric systems. My core principle is **"Simplicity First"** – focusing on effective, secure, and automated solutions.
 
-Łączę inżynierię cyberbezpieczeństwa z psychologią, aby projektować systemy, które są nie tylko bezpieczne, ale przede wszystkim intuicyjne i zautomatyzowane. Moja zasada: Najprostsze rozwiązania są najskuteczniejsze.
+---
 
-🚀 MOJE PODEJŚCIE (AI-Assisted Workflow)
-   Traktuję Generative AI jako strategicznego partnera. Moją siłą nie jest bezrefleksyjne kopiowanie kodu, lecz:
+## 🚀 My AI-Assisted Workflow
+I treat **Generative AI** as a strategic partner to accelerate development and ensure code quality. My strength lies not in "copy-pasting," but in:
+- **Strategic Debugging:** Identifying logic flaws and iterating with AI to deliver clean, production-ready code.
+- **Problem Decomposition:** Breaking complex business requirements into manageable, logical modules.
+- **Security-by-Design:** Ensuring data integrity and secure API orchestrations (e.g., Google Ecosystem).
 
-   Precyzyjna diagnostyka: Umiejętność debugowania i iteracji z AI, by dowieźć czysty, działający kod.
+---
 
-   Architektura procesów: Dzielenie złożonych problemów na mniejsze, logiczne moduły.
+## 🛠 Tech Stack
+- **Languages:** JavaScript (ES6+), PHP, Python, Basics of C++.
+- **Web & Immersive UI:** Three.js (WebGL), GSAP, CSS Grid/Flexbox, HTML5, Figma.
+- **Tools & Infrastructure:** Git/GitHub, Linux Terminal, SQL basics, Postman, AI Studio.
+- **Specializations:** Cybersecurity (Cryptography, Risk Analysis), Human Factors in IT.
 
-   Security-by-Design: Wdrażanie integralności danych i bezpiecznych połączeń API (np. Google API).
+---
 
-🔧 KLUCZOWE PROJEKTY (Highlight)
-🏎 HOG Kraków – Lead Systems Architect
-   Samodzielnie zaprojektowana architektura łącząca frontend z ekosystemem Google API.
+## 📁 Key Projects
 
-   Osiągnięcie: 100% automatyzacji zarządzania wydarzeniami i mediami, eliminacja kosztów zewnętrznych CMS.
+### 🏎 [HOG Kraków](https://hogkrakow.pl/) – Lead Systems Architect
+Designed and deployed a custom architecture linking a frontend with the **Google API ecosystem**.
+- **Achievement:** 100% automated event and media management; eliminated external CMS costs.
+- **Tech:** PHP, Google Calendar & Drive API, Server Configuration, Security hardening.
 
-   Tech: PHP, Google Calendar & Drive API, Server Configuration, Security hardening.
+### 🌌 [Kroniki Marty](http://kronikimarty.pl/) – Immersive SPA
+A modern Single Page Application (SPA) featuring high-end frontend technologies.
+- **Achievement:** Created an interactive 3D background in **Three.js** with dynamic performance optimization (60 FPS).
+- **Tech:** JavaScript, WebGL, Three.js, GSAP, Telegram API integration.
 
-🌌 Kroniki Marty – Immersive SPA
-   Nowoczesna platforma typu Single Page Application z zaawansowanym UI.
+### 🐍 [Python Automation](https://github.com/namako-pl)
+- **PDF to MP3 Converter:** GUI-based tool featuring multi-threading for responsive data processing.
+- **PokeAPI Integration:** Demonstrating efficient JSON data parsing and external API handling.
 
-   Osiągnięcie: Interaktywne tło 3D w Three.js z dynamiczną optymalizacją wydajności (60 FPS).
+---
 
-   Tech: JavaScript (ES6+), WebGL, Three.js, GSAP, Telegram API.
+## 🧠 CliftonStrengths (Top 5)
+**Learner | Relator | Connectedness | Strategic | Individualization** I am a fast learner (ready to master **Kotlin/Mobile**), a strategic thinker who sees complex patterns, and a dedicated team member focused on building trust-based professional relationships.
 
-🐍 Automatyzacja & Python
-   PDF to MP3 (GUI & Multi-threading): Narzędzie do konwersji danych z interfejsem graficznym.
+---
 
-   PokeAPI Game: Demonstracja pracy z danymi JSON i zewnętrznymi API.
+## 🎓 Education & Certifications
+- **B.Eng. in Cybersecurity Engineering** (In Progress)
+- **B.A. in Psychology** (In Progress) – Specializing in Statistical Analysis and Human Factors.
+- **AI Foundations Certified (Women Go Tech)** – Validated skills in LLM tools and Generative AI workflows.
 
-   Tech: Python, Tkinter, threading, requests.
+---
 
-🛠 TECH STACK
-   Languages: JavaScript, PHP, Python, podstawy C++.
-
-   Web & UI: Three.js, GSAP, CSS Grid/Flexbox, HTML5, Figma.
-
-   Tools & Infrastructure: Git/GitHub, Linux Terminal, SQL (podstawy), Postman, AI Studio.
-
-   Cybersecurity: Kryptografia, Analiza ryzyka, Bezpieczne programowanie.
-
-🧠 CLIFTON STRENGTHS (Top 5)
-   Learner | Relator | Connectedness | Strategic | Individualization
-   Szybko się uczę (idealne przy wdrażaniu nowych technologii jak Kotlin), widzę powiązania tam, gdzie inni widzą chaos, i buduję trwałe relacje oparte na zaufaniu.
-
-🎓 WYKSZTAŁCENIE
-   Inżynieria Cyberbezpieczeństwa (w trakcie) – fundamenty techniczne.
-
-   Psychologia (w trakcie) – analiza statystyczna i zrozumienie użytkownika (Human Factors).
-
-   AI Foundations (Women Go Tech) – certyfikowana znajomość narzędzi LLM i ML.
-
-📞 KONTAKT
-   Email: natalia.ma.kowalska@gmail.com
-
-   LinkedIn: linkedin.com/in/namako/
+## 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/namako/](https://www.linkedin.com/in/namako/)
+- **Email:** natalia.ma.kowalska@gmail.com
