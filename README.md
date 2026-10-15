@@ -1,7 +1,7 @@
 # Hi there! I'm Natalia 👋
 ### Digital Solutions Architect | AI-Assisted Developer | Cybersecurity Engineering Student
 
-I bridge the gap between **Cybersecurity Engineering** and **Clinical Psychology** to design high-performance, human-centric systems. My core principle is **"Simplicity First"** – focusing on effective, secure, and automated solutions.
+I bridge the gap between **IT** and **Clinical Psychology** to design high-performance, human-centric systems. My core principle is **"Simplicity First"** – focusing on effective, secure, and automated solutions.
 
 ---
 
@@ -16,8 +16,8 @@ I treat **Generative AI** as a strategic partner to accelerate development and e
 ## 🛠 Tech Stack
 - **Languages:** JavaScript (ES6+), PHP, Python, Basics of C++.
 - **Web & Immersive UI:** Three.js (WebGL), GSAP, CSS Grid/Flexbox, HTML5, Figma.
-- **Tools & Infrastructure:** Git/GitHub, Linux Terminal, SQL basics, Postman, AI Studio.
-- **Specializations:** Cybersecurity (Cryptography, Risk Analysis), Human Factors in IT.
+- **Tools & Infrastructure:** Git/GitHub, Linux Terminal, SQL basics, AI Studio.
+- **Specializations:** Automation, AI, Development, Human Factors in IT.
 
 ---
 
